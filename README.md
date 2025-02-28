@@ -15,7 +15,7 @@ I specialize in time series forecasting, classification, recommendation systems,
 
 
 [![kAIusbot Card](https://github-readme-stats.vercel.app/api/pin/?username=kaiusdepaula&repo=kAIusbot&theme=buefy&hide_border=true)](https://github.com/kaiusdepaula/kAIusbot)
-[![data_projects Card](https://github-readme-stats.vercel.app/api/pin/?username=kaiusdepaula&repo=data_projects&theme=buefy&hide_border=true)](https://github.com/kaiusdepaula/data_projects)
+[![NLPiece Card](https://github-readme-stats.vercel.app/api/pin/?username=kaiusdepaula&repo=NLPiece&theme=buefy&hide_border=true)](https://github.com/kaiusdepaula/NLPiece)
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiusdepaula&show_icons=true&rank_icon=github&theme=buefy&hide_border=true" alt="Kaius's github stats" /></a> 
