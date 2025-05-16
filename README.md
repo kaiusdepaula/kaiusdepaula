@@ -1,6 +1,6 @@
 # 👋 Hi there! 
 
-I'm Kaius, a Data Scientist with over 3 years of experience leveraging machine learning, optimization techniques, and data visualizations to solve complex problems and drive business outcomes. With a solid foundation in Economics from the Federal University of Viçosa, I've developed a passion for turning data into actionable insights that create real impact.
+I'm Kaius, a Data Scientist with over 4 years of experience leveraging machine learning, optimization techniques, and data visualizations to solve complex problems and drive business outcomes. With a solid foundation in Economics from the Federal University of Viçosa, I've developed a passion for turning data into actionable insights that create real impact.
 
 Currently, as a Senior Data Scientist at Cast Group (Banco do Brasil), I design and implement cutting-edge solutions that optimize processes and allocate resources more efficiently. One of my proudest achievements is developing a people analytics algorithm that saved millions in costs and enhanced employee allocation for thousands of new hires.
 
